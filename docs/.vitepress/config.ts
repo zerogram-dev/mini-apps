@@ -3,6 +3,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Telegram Mini Apps",
 
+  lastUpdated: true,
+
   themeConfig: {
     sidebar: [
       {
