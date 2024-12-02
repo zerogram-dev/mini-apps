@@ -16,7 +16,6 @@
 - [Closing Behavior](#) — enable/disable confirmation for closing the Mini App.
 - [Swiping Behavior](#) — enable/disable Mini App minimization by swiping.
 
-
 ### Telegram
 
 - [Cloud Storage](#) — store data in the Telegram cloud.
@@ -25,7 +24,9 @@
 - [Sharing to Story](#) — share media content to a story from the Mini App.
 - [Sending Messages](#) — send messages from the Mini App on behalf of the user.
 - [Sending Data](#) — send a service message with custom data to the bot.
+- [Switching to Inline Mode](#) — switch to inline mode in any chat from the Mini App.
 - [Links Opening](#) — open links in Telegram, instant view, or external browser.
+- [Invoices](#) — open native popup to pay the invoice.
 - [Write Access](#) — prompt a user for permission for the bot to send messages.
 - [Phone Access](#) — prompt a user for permission for the bot to access phone number.
 
@@ -38,6 +39,7 @@
 - [Geolocation Access](#) — access user geolocation data.
 - [Downloading Files](#) — download files with a native popup.
 - [Home Screen Shortcuts](#) — add shortcut to your Mini App on the home screen.
+- [Clipboard Access](#) — read text from the clipboard.
 - [Device Info](#) — access the device hardware information.
 
 ---
