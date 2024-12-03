@@ -8,7 +8,7 @@
 ### UI
 
 - [Main and Secondary Buttons](#) — control native buttons in the bottom bar.
-- [Back Button](#) — control native back button.
+- [Back Button](./featuers/back-button) — control native back button.
 - [Settings Button](#) — control native settings button.
 - [Popup](#) — show native popup with custom text and buttons.
 - [Loading Screen](#) — customize the loading screen of your Mini App.
