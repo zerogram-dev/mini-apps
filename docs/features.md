@@ -2,8 +2,8 @@
 
 <!-- @ref{https://core.telegram.org/bots/webapps}(2024-12-01) -->
 <!-- @ref{https://core.telegram.org/bots/features}(2024-12-01) -->
-<!-- @ref{https://telegram.org/blog/fullscreen-miniapps-and-more}(2024-12-01) -->
-<!-- @ref{https://telegram.org/blog/w3-browser-mini-app-store}(2024-12-01) -->
+<!-- @ref{https://telegram.org/blog/fullscreen-miniapps-and-more}(2024-12-05) -->
+<!-- @ref{https://telegram.org/blog/w3-browser-mini-app-store}(2024-12-05) -->
 
 ### UI
 
